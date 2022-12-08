@@ -16,10 +16,12 @@ function App() {
 	  
 	  <Map />
 	  
-	  <div id="footer">
-	    <div id="source">Source: <a href='https://www.ers.usda.gov/data-products/county-level-data-sets/download-data.aspx' target="_blank">USDA Economic Research Service</a></div>
-	    <a href="https://github.com/bstefansen" target="_blank">by Blake Stefansen</a>
-	  </div>
+	  <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
+	    <a href='https://www.ers.usda.gov/data-products/county-level-data-sets/download-data.aspx' target="_blank">USDA Economic Research Service</a>
+	  </button>
+	  <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
+	    <a href="https://github.com/bstefansen" target="_blank">Site Author</a>
+	  </button>
       </header>
     </div>
   );
