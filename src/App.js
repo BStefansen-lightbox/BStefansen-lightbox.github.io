@@ -18,7 +18,7 @@ function App() {
 	  
 	  <div id="footer">
 	    <div id="source">Source: <a href='https://www.ers.usda.gov/data-products/county-level-data-sets/download-data.aspx' target="_blank">USDA Economic Research Service</a></div>
-	    <a href="https://bstefansen.github.io/Portfolio/" target="_blank">by Blake Stefansen</a>
+	    <a href="https://github.com/bstefansen" target="_blank">by Blake Stefansen</a>
 	  </div>
       </header>
     </div>
